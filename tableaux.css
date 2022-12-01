@@ -1,0 +1,17 @@
+caption{
+    font-weight: bolder;
+    color: mediumpurple;
+}
+
+table, th, td{
+    border: solid black 2px;
+    border-collapse:collapse;
+}
+
+table{
+    border: double mediumpurple 5px;
+}
+
+th{
+    background-color: lightskyblue;
+}
